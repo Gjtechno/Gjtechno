@@ -12,6 +12,11 @@ $$\textcolor{#FF87C5}{\textsf{Bloody anarchy, the voices yell at me / They all w
 
 </div>
 
+<div align="center">
+
+$$\textcolor{#fbd5e9}{\textsf{(─‿‿─)♡}}$$
+
+
 
 
 
