@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gjtechno/Gjtechno/main/NCS-S-1575-R10B%20(1)%20(1).png" alt="Длинный баннер" width="800">
+  <img src="https://raw.githubusercontent.com/Gjtechno/Gjtechno/main/NCS-S-1575-R10B%20(1)%20(1).png" alt="Длинный баннер" width="400">
 </div>
 
 <div align="center">
