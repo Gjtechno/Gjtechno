@@ -20,7 +20,7 @@ $$\textcolor{#fdafc5}{\textsf{(─‿‿─)♡}}$$
 
 
 <div align="center">
-   <img src="stars.png" alt="Длинный баннер с прозрачным фоном" width="400">
+   <img src="stars.png" alt="Длинный баннер с прозрачным фоном" width="100">
   
 <div align="center">
   <img src="techno.png" alt="Длинный баннер с прозрачным фоном" width="900">
