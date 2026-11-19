@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gjtechno/Gjtechno/main/i%20(4).png" alt="Баннер" width="900" height="80">
+  <img src="https://raw.githubusercontent.com/Gjtechno/Gjtechno/main/NCS-S-1575-R10B%20(1)%20(1).png" alt="Длинный баннер" width="800">
+</div>
+
 <div align="center">
   
 ![](https://img.shields.io/badge/Not_even_close,_baby!-f20749?style=for-the-badge)
