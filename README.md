@@ -6,6 +6,13 @@
 
 </div>
 
+<div align="center">
+
+$$\textcolor{#FF87C5}{\textsf{Bloody anarchy, the voices yell at me / They all want me dead, but I'll take you out instead / Violence is the key, so what's it gonna be? / Do you wanna live or die? / You say I betrayed you, but I never lied}}$$
+
+</div>
+
+
 
 
 
