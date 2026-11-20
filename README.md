@@ -23,7 +23,7 @@ $$\textcolor{#fdafc5}{\textsf{(─‿‿─)♡}}$$
    <img src="stars.png" alt="Длинный баннер с прозрачным фоном" width="100">
   
 <div align="center">
-  <img src="techno.png" alt="Длинный баннер с прозрачным фоном" width="900">
+  <img src="techno.png" alt="Длинный баннер с прозрачным фоном" width="700">
 </div>
 
 
