@@ -10,7 +10,8 @@
 
 <div align="center">
 
-$$\textcolor{#f85482}{\textsf{Bloody anarchy, the voices yell at me / They all want me dead, but I'll take you out instead / Violence is the key, so what's it gonna be?}}$$
+$$\textcolor{#f85482}{\textsf{But he's in your bed, I'm in your Twitch chat / 
+I've got the key and he's just a doormat}}$$
 
 </div>
 
