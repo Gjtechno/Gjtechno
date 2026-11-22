@@ -16,10 +16,11 @@ $$\textcolor{#f51b14}{\textsf{Until I have a Skeppy I can never be happy!!}}$$
 
 <div align="center">
 
-$$\textcolor{#161622}{\textsf{(─‿‿─)♡}}$$
-  
+$$\textcolor{#2d2d3e}{\textsf{(─‿‿─)♡}}$$
+
+  ﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋
 <div align="center">
-  <img src="techno.png" alt="Длинный баннер с прозрачным фоном" width="700">
+  <img src="BAD.PNG" alt="Длинный баннер с прозрачным фоном" width="700" height="600">
 </div>
 
 
