@@ -4,7 +4,7 @@
 
 <div align="center">
   
-https://img.shields.io/badge/He%27s%20in%20your%20bed%20and%20I%27m%20in%20your%20Twitch%20chat%21-3d1706?style=for-the-badge
+![](https://img.shields.io/badge/He's%20in%20your%20bed%20and%20I'm%20in%20your%20Twitch%20chat!-874224)
 
 </div>
 
