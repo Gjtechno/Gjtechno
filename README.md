@@ -20,7 +20,7 @@ $$\textcolor{#612810}{\textsf{(─‿‿─)♡}}$$
 
   ﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋﹋
 <div align="center">
-  <img src="BAD.PNG" alt="Длинный баннер с прозрачным фоном" width="700" height="600">
+  <img src="wilbur.png" alt="Длинный баннер с прозрачным фоном" width="700" height="600">
 </div>
 
 
